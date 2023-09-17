@@ -1,5 +1,5 @@
 # Java-Basic-Problems
-## PROBLEM STATEMENT
+## PROBLEM STATEMENTS
 
 1) Almitha Industries is a steel manufacturing unit it had machinery that was purchased for 10 lakhs and was used for 25 years. The machinery got damaged and was sold for 2 lakhs 50 thousand, a scrap value. Write a Java program to educate the depreciation rate.
 2) Primazon company limited for category 1, product name: Garments, Quantity: 1500, rate:?value: 12000, for category 2, product name: Books, Quantity:? rate: 25, value: 10000;  for category 3, product name: electronic gadgets, quantity: 20000, rate:35, value:?
